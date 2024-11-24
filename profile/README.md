@@ -5,13 +5,6 @@
 
 **Smart Hosts.app** is a desktop application that helps users configure and customize domain resolution for development or private environments.
 
-<!--
+![preferences_window](https://github.com/user-attachments/assets/69ff15ce-a5ae-43a1-8cfe-e590ce98043c)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![tray_window](https://github.com/user-attachments/assets/d99a37f2-dded-44ec-b3b8-42ba9d0db9e0)
