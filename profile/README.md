@@ -2,9 +2,9 @@
 
 **Smart Hosts.app** is a desktop application that helps users configure and customize domain resolution for development or private environments.
 
-## Smart Hosts.app
+![Front Poster](./FrontPoster.png)
 
-![App Icon](./icon.png)
+## Smart Hosts.app
 
 Serve your smart hosts file as a DNS server.
 
