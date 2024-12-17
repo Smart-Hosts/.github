@@ -1,6 +1,8 @@
 # Hi there 👋
 
-**Smart Hosts.app** is a desktop application that helps users configure and customize domain resolution for development or private environments.
+**Smart Hosts.app** is a desktop application
+that helps users configure and customize domain resolution
+for development or private environments.
 
 ![Front Poster](./FrontPoster.png)
 
@@ -16,6 +18,21 @@ Serve your smart hosts file as a DNS server.
 
 ### Screenshots
 
-![preferences_window](https://github.com/user-attachments/assets/69ff15ce-a5ae-43a1-8cfe-e590ce98043c)
+![preferences window | general](./PreferencesGeneral.light.png)
+![preferences window | hosts file](./PreferencesHostsFile.light.png)
+![tray window](./Tray.light.png)
 
-![tray_window](https://github.com/user-attachments/assets/d99a37f2-dded-44ec-b3b8-42ba9d0db9e0)
+### Screenshots Dark Mode
+
+![preferences window | general](./PreferencesGeneral.png)
+![preferences window | hosts file](./PreferencesHostsFile.png)
+![tray window](./Tray.png)
+
+## Changelogs
+
+### v0.2.0
+
+- Supports in-app purchases to fund ongoing maintenance and new feature development  
+- Supports I18N, with Simplified Chinese (the author's native language) added first  
+- Optimized UI layout by dividing it into two configuration tabs: General Settings and Hosts File Editing  
+- Updated multiple third-party dependencies  
