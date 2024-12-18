@@ -30,6 +30,11 @@ Serve your smart hosts file as a DNS server.
 
 ## Changelogs
 
+### v0.2.1
+
+- Add IAP items in App Store Connect
+- Updated multiple third-party dependencies
+
 ### v0.2.0
 
 - Supports in-app purchases to fund ongoing maintenance and new feature development  
