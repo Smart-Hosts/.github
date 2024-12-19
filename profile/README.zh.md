@@ -4,7 +4,7 @@
 
 **Smart Hosts.app** 本应用帮助开发者配置自定义域名解析规则，用于开发环境或私域访问。
 
-![Front Poster](./FrontPoster.zh.png)
+![Front Poster](./Poster.zh.png)
 
 ## Smart Hosts.app
 
@@ -18,15 +18,15 @@
 
 ### 截屏
 
-![preferences window | general](./PreferencesGeneral.zh.light.png)
-![preferences window | hosts file](./PreferencesHostsFile.zh.light.png)
-![tray window](./Tray.zh.light.png)
+![preferences window | general](./screenshots/PreferencesGeneral.zh.png)
+![preferences window | hosts file](./screenshots/PreferencesHostsFile.zh.png)
+![tray window](./screenshots/Tray.zh.png)
 
 ### 黑暗模式截屏
 
-![preferences window | general](./PreferencesGeneral.zh.png)
-![preferences window | hosts file](./PreferencesHostsFile.zh.png)
-![tray window](./Tray.zh.png)
+![preferences window | general](./screenshots_dark/PreferencesGeneral.zh.png)
+![preferences window | hosts file](./screenshots_dark/PreferencesHostsFile.zh.png)
+![tray window](./screenshots_dark/Tray.zh.png)
 
 ## 变更日志
 

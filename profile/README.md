@@ -6,7 +6,7 @@
 that helps users configure and customize domain resolution
 for development or private environments.
 
-![Front Poster](./FrontPoster.png)
+![Poster](./Poster.png)
 
 ## Smart Hosts.app
 
@@ -20,15 +20,15 @@ Serve your smart hosts file as a DNS server.
 
 ### Screenshots
 
-![preferences window | general](./PreferencesGeneral.light.png)
-![preferences window | hosts file](./PreferencesHostsFile.light.png)
-![tray window](./Tray.light.png)
+![preferences window | general](./screenshots/PreferencesGeneral.png)
+![preferences window | hosts file](./screenshots/PreferencesHostsFile.png)
+![tray window](./screenshots/Tray.png)
 
 ### Screenshots Dark Mode
 
-![preferences window | general](./PreferencesGeneral.png)
-![preferences window | hosts file](./PreferencesHostsFile.png)
-![tray window](./Tray.png)
+![preferences window | general](./screenshots_dark/PreferencesGeneral.png)
+![preferences window | hosts file](./screenshots_dark/PreferencesHostsFile.png)
+![tray window](./screenshots_dark/Tray.png)
 
 ## Changelogs
 
