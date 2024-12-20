@@ -18,6 +18,12 @@ Serve your smart hosts file as a DNS server.
 - WiFI SSID-based resolution
 - Unix shell pattern matching
 
+### Quick Links
+
+- [Hosts file format](./Hosts.md)
+- [Discussions](https://github.com/orgs/Smart-Hosts/discussions)
+- [App Store](https://apps.apple.com/us/app/smart-hosts/id6738317830)
+
 ### Screenshots
 
 ![preferences window | general](./screenshots/PreferencesGeneral.png)

@@ -16,6 +16,12 @@
 - 基于 WiFi SSID 解析
 - Unix shell pattern 模糊匹配
 
+### 快捷链接
+
+- [Hosts file 格式](./Hosts.zh.md)
+- [讨论组](https://github.com/orgs/Smart-Hosts/discussions)
+- [App Store](https://apps.apple.com/us/app/smart-hosts/id6738317830)
+
 ### 截屏
 
 ![preferences window | general](./screenshots/PreferencesGeneral.zh.png)
