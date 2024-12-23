@@ -22,6 +22,24 @@
 - [讨论组](https://github.com/orgs/Smart-Hosts/discussions)
 - [App Store](https://apps.apple.com/us/app/smart-hosts/id6738317830)
 
+### 技术栈
+
+- [Tauri](https://github.com/tauri-apps/tauri) 来构建 MacOS App。
+- [Leptos](https://github.com/leptos-rs/leptos)
+  用来构建 App 的前端（即用户界面）。
+  - [Trunk](https://github.com/trunk-rs/trunk)
+  - [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+  - [daisyUI](https://github.com/saadeghi/daisyui)
+- 跨语言调用
+  - 跨 Objective-C 与 Rust 调用来与 MacOS 系统互动。
+    - [objc2](https://github.com/madsmtm/objc2) 调用 Network，
+      Core WLAN 和 Core Location Apple 框架。
+    - 用 [rust-dispatch](https://github.com/SSheldon/rust-dispatch) 的 [forked version](https://github.com/turbocool3r/rust-dispatch)
+      来调用 Dispatch Apple 框架。
+  - 跨 Swift 与 Rust 调用来来与 MacOS 系统互动。
+    - [swift-rs](swift-rs)
+      来调用 StoreKit Apple 框架。
+
 ### 截屏
 
 ![preferences window | general](./screenshots/PreferencesGeneral.zh.png)
