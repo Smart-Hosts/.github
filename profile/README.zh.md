@@ -39,6 +39,8 @@
   - 跨 Swift 与 Rust 调用来来与 MacOS 系统互动。
     - [swift-rs](swift-rs)
       来调用 StoreKit Apple 框架。
+- DNS 协议实现
+  - [deku](https://github.com/sharksforarms/deku) 来实现其二进制协议。
 
 ### 截屏
 

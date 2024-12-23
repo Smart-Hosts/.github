@@ -35,6 +35,8 @@ Serve your smart hosts file as a DNS server.
   - For bridging between Swift and Rust to interact with MacOS system.
     - [swift-rs](swift-rs)
       for bridging StoreKit Apple Framework.
+- DNS Protocol Implementation
+  - Use [deku](https://github.com/sharksforarms/deku) to handle its binary protocol.
 
 ### Quick Links
 
