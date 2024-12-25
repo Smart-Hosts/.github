@@ -18,7 +18,7 @@
 - Condition
   - ssid 匹配当前网络 Wi-Fi 的 ssid
 
-一行一个规则，第一个空格前为 Action，空格后为 Domain ，可以使用逗号分隔多个 Domain 。
+一行一个规则，第一个空格前为 Action，空格后为 Domain ，可以使用空格分隔多个 Domain 。
 Domain 支持 Unix Shell 风格通配符, 例如 `*-nas.home` 。
 后面以 `,` 来分割的参数为可选参数 Condition ，
 目前支持 `ssid="home"` 参数，用于区分不同的 Wi-Fi 网络环境。

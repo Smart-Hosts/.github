@@ -20,7 +20,7 @@
 
 Each rule occupies one line. The text before the first space is the **Action**,
 and the text after the space is the **Domain**,
-which can include multiple domains separated by commas.
+which can include multiple domains separated by white spaces.
 Domains support Unix shell-style wildcards, such as `*-nas.home`.
 Parameters after a comma act as optional **Conditions**.
 Currently, the supported condition is `ssid="home"`,
