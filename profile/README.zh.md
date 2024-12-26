@@ -56,6 +56,12 @@
 
 ## 变更日志
 
+### v0.3.0
+
+- SSID 支持 Unix Shell Style 通配符匹配
+- 更新 Tray UI 的背景颜色
+- 更新多个第三方依赖。主要是 Leptos 从 0.6 升级至 0.7.1
+
 ### v0.2.1
 
 - App Store Connect 添加 IAP 项目

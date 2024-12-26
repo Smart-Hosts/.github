@@ -58,6 +58,13 @@ Serve your smart hosts file as a DNS server.
 
 ## Changelogs
 
+### v0.3.0
+
+- **SSID**: Supports Unix shell-style wildcard matching
+- **Tray UI**: Updated background color
+- **Third-Party Dependencies**: Upgraded several libraries,
+  including **Leptos** from 0.6 to 0.7.1
+
 ### v0.2.1
 
 - Add IAP items in App Store Connect
@@ -71,4 +78,3 @@ Serve your smart hosts file as a DNS server.
 - Optimized UI layout by dividing it into two configuration tabs:
   General Settings and Hosts File Editing
 - Updated multiple third-party dependencies
-
