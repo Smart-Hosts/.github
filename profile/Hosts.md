@@ -3,7 +3,7 @@
 ```hosts
 # This is a sample hosts file used by Smart Hosts.
 127.0.0.1 example.com
-192.168.1.1 nas.home, ssid="home" # NAS server LAN address for LAN network
+192.168.1.1 nas.home nas.local, ssid="home" # NAS server LAN address for LAN network
 100.64.0.1 nas.home # NAS server Tailscale address for WAN network
 ```
 
@@ -21,10 +21,11 @@
 Each rule occupies one line. The text before the first space is the **Action**,
 and the text after the space is the **Domain**,
 which can include multiple domains separated by white spaces.
-Domains support Unix shell-style wildcards, such as `*-nas.home`.
 Parameters after a comma act as optional **Conditions**.
 Currently, the supported condition is `ssid="home"`,
 which distinguishes between different Wi-Fi network environments.
+
+Domains and SSID support Unix shell-style wildcards, such as `*-nas.home`.
 
 You can also use the `#` symbol at the beginning of a line to add comments.
 
