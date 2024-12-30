@@ -58,7 +58,15 @@ Serve your smart hosts file as a DNS server.
 
 ## Changelogs
 
-### v0.3.0
+### v0.4.0 (in TestFlight)
+
+- Added an auto-start configuration option
+- Fixed missing SSID wildcard matching limitation notice for the free plan
+  and updated feature descriptions for the Pro plan
+- Upgraded multiple third-party dependencies
+- Updated the default Hosts file example
+
+### v0.3.0 (2024-12-29)
 
 - **SSID**: Supports Unix shell-style wildcard matching
 - **Tray UI**: Updated background color
