@@ -58,7 +58,7 @@ Serve your smart hosts file as a DNS server.
 
 ## Changelogs
 
-### v0.4.0 (in TestFlight)
+### v0.4.0 (2025-01-03)
 
 - Added an auto-start configuration option
 - Fixed missing SSID wildcard matching limitation notice for the free plan
