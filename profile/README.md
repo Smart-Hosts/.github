@@ -26,6 +26,8 @@ Serve your smart hosts file as a DNS server.
   - [Trunk](https://github.com/trunk-rs/trunk)
   - [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
   - [daisyUI](https://github.com/saadeghi/daisyui)
+  - [tree-sitter](https://github.com/tree-sitter/tree-sitter) is used to
+    support syntax highlighting in code editors.
 - Bridging
   - For bridging between Objective-C and Rust to interact with MacOS system.
     - [objc2](https://github.com/madsmtm/objc2) for bridging Network,
@@ -35,6 +37,11 @@ Serve your smart hosts file as a DNS server.
   - For bridging between Swift and Rust to interact with MacOS system.
     - [swift-rs](swift-rs)
       for bridging StoreKit Apple Framework.
+  - Cross-language calls between JavaScript and Rust to interact with the front-end.
+    - Integrated front-end toolchain
+      with [Rspack](https://github.com/web-infra-dev/rspack)
+    - Used [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) to
+      call front-end code and browser APIs.
 - DNS Protocol Implementation
   - Use [deku](https://github.com/sharksforarms/deku) to handle its binary protocol.
 
@@ -57,6 +64,10 @@ Serve your smart hosts file as a DNS server.
 ![tray window](./screenshots_dark/Tray.png)
 
 ## Changelogs
+
+### v0.5.0 (Work in Progress, Available on TestFlight)
+
+- Hosts file code editor with syntax highlighting powered by `tree-sitter`.
 
 ### v0.4.0 (2025-01-03)
 

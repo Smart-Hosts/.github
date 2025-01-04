@@ -30,6 +30,7 @@
   - [Trunk](https://github.com/trunk-rs/trunk)
   - [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
   - [daisyUI](https://github.com/saadeghi/daisyui)
+  - [tree-sitter](https://github.com/tree-sitter/tree-sitter) 用于支持代码编辑器语法高亮
 - 跨语言调用
   - 跨 Objective-C 与 Rust 调用来与 MacOS 系统互动。
     - [objc2](https://github.com/madsmtm/objc2) 调用 Network，
@@ -39,6 +40,9 @@
   - 跨 Swift 与 Rust 调用来来与 MacOS 系统互动。
     - [swift-rs](swift-rs)
       来调用 StoreKit Apple 框架。
+  - 跨 JavaScript 与 Rust 调用来与前端互动。
+    - [Rspack](https://github.com/web-infra-dev/rspack) 集成前端工具链
+    - [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) 来调用前端代码及浏览器 API。
 - DNS 协议实现
   - [deku](https://github.com/sharksforarms/deku) 来实现其二进制协议。
 
@@ -55,6 +59,10 @@
 ![tray window](./screenshots_dark/Tray.zh.png)
 
 ## 变更日志
+
+### v0.5.0 (Work in progress, Be available in TestFlight)
+
+- Hosts 文件代码编辑器，通过 tree-sitter 支持代码高亮。
 
 ### v0.4.0 (2025-01-03)
 
