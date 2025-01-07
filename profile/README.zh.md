@@ -63,6 +63,8 @@
 ### v0.5.0 (Work in progress, Be available in TestFlight)
 
 - Hosts 文件代码编辑器，通过 tree-sitter 支持代码高亮。
+- 修复组件加载数据时闪烁的问题.
+- 更新多个第三方依赖
 
 ### v0.4.0 (2025-01-03)
 
