@@ -60,7 +60,7 @@
 
 ## 变更日志
 
-### v0.5.0 (Be available in TestFlight)
+### v0.5.0 (2025-01-09)
 
 - Hosts 文件代码编辑器，通过 tree-sitter 支持代码高亮
 - 修复组件加载数据时闪烁的问题

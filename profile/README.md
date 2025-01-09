@@ -65,7 +65,7 @@ Serve your smart hosts file as a DNS server.
 
 ## Changelogs
 
-### v0.5.0 (Be available on TestFlight)
+### v0.5.0 (2025-01-09)
 
 - **New Feature**: Hosts file code editor with syntax highlighting powered by `tree-sitter`
 - **Preferences UI**: Fix component flinking issue while loading resource.
