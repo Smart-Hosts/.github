@@ -65,7 +65,7 @@ Serve your smart hosts file as a DNS server.
 
 ## Changelogs
 
-### v0.5.1 (TestFlight)
+### v0.5.1 (2025-01-26)
 
 - Updated UI components in the settings interface and added window borders
 - Disabled resizing for the Tray window
