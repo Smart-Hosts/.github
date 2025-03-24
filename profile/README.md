@@ -65,7 +65,7 @@ Serve your smart hosts file as a DNS server.
 
 ## Changelogs
 
-### v0.5.2 (In review)
+### v0.5.2 (2025-03-24)
 
 - Fixed the issue where subscription restoration failed.
 - Fixed the issue where SSID rules became invalid after app restart.
